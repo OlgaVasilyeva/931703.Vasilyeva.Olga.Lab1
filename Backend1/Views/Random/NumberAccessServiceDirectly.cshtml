@@ -1,0 +1,17 @@
+﻿@using Backend1.Services
+@model dynamic
+@inject IRandomService RandomService
+@inject IArithmetService ArithmetService
+@{
+    ViewBag.Title = "Access service directly";
+    var first = @RandomService.Rand(0, 10);
+    var second = @RandomService.Rand(0, 10);
+}
+
+<h2>Access service directly</h2>
+<dl class="dl-horizontal">
+    <dd>@first * @second = @ArithmetService.sum(first, second)</dd>
+    <dd>@first / @second = @ArithmetService.del(first, second)</dd>
+    <dd>@first + @second = @ArithmetService.plus(first, second)</dd>
+    <dd>@first - @second = @ArithmetService.minus(first, second)</dd>
+</dl>

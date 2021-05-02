@@ -1,0 +1,43 @@
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.deps.json
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.json
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.dev.json
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.dll
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.pdb
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csprojAssemblyReference.cache
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csproj.CoreCompileInputs.cache
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfoInputs.cache
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfo.cs
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.dll
+C:\Users\пк\Source\Repos\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.pdb
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\bower.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.deps.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.dev.json
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.dll
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.pdb
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csprojAssemblyReference.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfoInputs.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfo.cs
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csproj.CoreCompileInputs.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.dll
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.pdb
+C:\учеба 2020\Веб20\Web 2 semestr\Готовые лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.genruntimeconfig.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\appsettings.Development.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\appsettings.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\bower.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.deps.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.runtimeconfig.dev.json
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.dll
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\bin\Debug\netcoreapp2.0\Backend1.pdb
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csprojAssemblyReference.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfoInputs.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.AssemblyInfo.cs
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.csproj.CoreCompileInputs.cache
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.dll
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.pdb
+C:\учеба 2020\Веб20\Web 2 semestr\Лабы\Web-Backend1\Backend1\obj\Debug\netcoreapp2.0\Backend1.genruntimeconfig.cache

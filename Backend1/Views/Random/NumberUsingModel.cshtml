@@ -1,0 +1,12 @@
+﻿@model Backend1.Models.NumberViewModel
+@{
+    ViewBag.Title = "Pass using Model";
+}
+
+<h2>Pass using Model</h2>
+<dl class="dl-horizontal">
+    <dd>@Model.First * @Model.Second = @Model.Sum</dd>
+    <dd>@Model.First / @Model.Second = @Model.Del</dd>
+    <dd>@Model.First + @Model.Second = @Model.Plus</dd>
+    <dd>@Model.First - @Model.Second = @Model.Minus</dd>
+</dl>

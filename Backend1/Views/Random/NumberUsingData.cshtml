@@ -1,0 +1,16 @@
+﻿@model dynamic
+@{
+    ViewBag.Title = "Pass using ViewData";
+}
+
+<h2>Pass using ViewData</h2>
+<dl class="dl-horizontal">
+    <dt>@ViewData["First"] * @ViewData["Second"] = </dt>
+    <dd>@ViewData["Sum"]</dd>
+    <dt>@ViewData["First"] / @ViewData["Second"] = </dt>
+    <dd>@ViewData["Del"]</dd>
+    <dt>@ViewData["First"] + @ViewData["Second"] = </dt>
+    <dd>@ViewData["Plus"]</dd>
+    <dt>@ViewData["First"] - @ViewData["Second"] = </dt>
+    <dd>@ViewData["Minus"]</dd>
+</dl>
